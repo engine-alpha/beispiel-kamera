@@ -8,7 +8,7 @@ import ea.*;
  */
 public class Spiel
 extends Game {
-    //
+    
     /**
      * Der 'Spieler'
      */
